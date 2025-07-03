@@ -23,12 +23,12 @@
 ### 📚 Course Management System
 > Built with Windows Forms (.NET) for a desktop app and LocalDB for backend
 
-- 🗂️ [`Project`](https://github.com/ZedhunterJR/Course-Regis): A course and user management system built with WinForms and SQL Server.
+- 🗂️ [`CourseRegis`](https://github.com/ZedhunterJR/Course-Regis): A course and user management system built with WinForms and SQL Server.
 
 ### 🌐 Frontend Web
 > Html, Css and simple Js for a game review website prototype
 
-- 🗂️ [`Project`](https://github.com/ZedhunterJR/Indie-top-html): Simple game review website with only front end.
+- 🗂️ [`IndieTop`](https://github.com/ZedhunterJR/Indie-top-html): Simple game review website with only front end.
 ---
 
 ## 🛠 Tech Stack
