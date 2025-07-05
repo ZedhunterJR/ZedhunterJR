@@ -7,9 +7,19 @@
 
 ---
 
-## 🚀 Published Games
+## 🎮 Released Games on Itch.io
 
-🕹️ Play my released games on [**Itch.io**](https://zedhunterjr.itch.io/)
+> 🟢 These are **completed or polished** game projects that you can **play right now**.
+
+🔗 **[➡️ Visit My Itch.io Page](https://zedhunterjr.itch.io/)**  
+Check out game jam entries, prototypes, and fun experiments hosted on Itch.io!
+
+<p align="center">
+  <a href="https://zedhunterjr.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-zedhunterjr.itch.io-%23fa5c5c?style=for-the-badge&logo=itch-io&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
